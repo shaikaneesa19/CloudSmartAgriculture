@@ -1,0 +1,12 @@
+{
+  "name": "cloud-based-smart-agriculture-monitoring-system",
+  "version": "1.0.0",
+  "description": "Cloud-Based Smart Agriculture Monitoring System with Flask, React, and Chart.js",
+  "scripts": {
+    "install:all": "npm --prefix frontend install",
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build"
+  },
+  "author": "",
+  "license": "MIT"
+}
